@@ -1,0 +1,114 @@
+
+.main-class{
+    width: 95%;
+    text-align: center;
+    margin: auto;
+    margin-left: 5%;
+    margin-top: 3%;
+}
+.blog-1{
+    border: 2px solid red;
+    width: 31%;
+    float: left;
+    overflow: hidden;
+    margin: 0px 1px 0px 0px;
+    height: 200px;
+    background-color: rgb(119, 100, 15);
+    border-radius: 0px 10px 0px 10px;
+}
+
+.blog-1 h2{
+    color: red;
+}
+.blog-1 h4{
+    color: rgb(211, 23, 170);
+}
+.blog-1 p{
+    color: #00ff00;
+}
+
+
+.blog-2{
+    border: 2px solid red;
+    width: 31%;
+    float: left;
+    overflow: hidden;
+    margin: 0px 1px 0px 0px;
+    height: 200px;
+    background-color: rgb(15, 119, 114);
+    border-radius: 0px 10px 0px 10px;
+}
+
+.blog-2 h2{
+    color: blue;
+}
+.blog-2 h4{
+    color: rgb(211, 161, 23);
+}
+.blog-2 p{
+    color: #ff6600;
+}
+
+
+.blog-3{
+    border: 2px solid red;
+    width: 31%;
+    float: left;
+    overflow: hidden;
+    height: 200px;
+    background-color: rgb(25, 15, 119);
+    border-radius: 0px 10px 0px 10px;
+
+}
+
+.blog-3 h2{
+    color: black;
+}
+.blog-3 h4{
+    color: rgb(211, 51, 23);
+}
+.blog-3 p{
+    color: #ff00ea;
+}
+
+.sub-class{
+    width: 30%;
+    height: 150px;
+    border: 2px solid blue;
+    float: left;
+    overflow: hidden;
+    text-align: center;
+    margin: auto;
+    margin-top: 4%;
+    padding: 2px 27px 115px;
+    margin-left: 35%;
+    text-overflow:initial;
+    text-decoration: ivory;
+    display: block;
+
+}
+sub-class p{
+    overflow: hidden;
+    text-justify: distribute;
+    
+}
+
+
+.footer-1{
+    background-color:gray;
+    height: 100px;
+    width: 100%;
+    float: left;
+    overflow: hidden;
+    margin-top: 4%;
+}
+
+..footer-1 p{
+    padding-top:50px;
+}
+
+.footer-1 .post-sign{
+    float: right;
+    padding-right: 300px;
+}
+
